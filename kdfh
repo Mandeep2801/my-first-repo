@@ -1,0 +1,35 @@
+[33mcommit 30ca6a3754c50c95524f1ae9c5b93518fba16ab4[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m)[m
+Author: TaichiKarna <taichikarna@gmail.com>
+Date:   Tue Jul 4 19:09:08 2023 +0530
+
+    changed locally
+
+[33mcommit 893724f5a0688f7878d47a3b0d16937fdc8ba437[m[33m ([m[1;31morigin/feature-1[m[33m)[m
+Author: Mandeep2801 <138577659+Mandeep2801@users.noreply.github.com>
+Date:   Tue Jul 4 18:54:21 2023 +0530
+
+    Create file2.txt
+
+[33mcommit b050645454e88521f4cce9119f6a039250794bb8[m
+Author: Mandeep2801 <138577659+Mandeep2801@users.noreply.github.com>
+Date:   Tue Jul 4 16:03:42 2023 +0530
+
+    Create new-feature
+
+[33mcommit 9f445eb95efffc9948496da613b2144f9c24c4c2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mandeep2801 <138577659+Mandeep2801@users.noreply.github.com>
+Date:   Tue Jul 4 15:40:20 2023 +0530
+
+    Update README.md
+
+[33mcommit 7c0f83de702d4c81576961641f203462f11e89f7[m
+Author: Mandeep2801 <138577659+Mandeep2801@users.noreply.github.com>
+Date:   Tue Jul 4 15:38:14 2023 +0530
+
+    Create file1.txt
+
+[33mcommit 5ece2b9687863caa7572615e3b8e817d8c2c70cd[m
+Author: Mandeep2801 <138577659+Mandeep2801@users.noreply.github.com>
+Date:   Tue Jul 4 15:37:29 2023 +0530
+
+    Initial commit
